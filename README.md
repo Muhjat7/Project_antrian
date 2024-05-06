@@ -104,7 +104,7 @@ Analisis ini diperlukan untuk mengetahui spesifikasi minimum yang dibutuhkan unt
 
   Kebutuhan spesifikasi minimum perangkat keras yang dibutuhkan oleh pengguna untuk menjalankan aplikasi dapat dilihat pada Tabel dibawah ini : 
 
-  *Tabel 2 Kebutuhan Perangkat Keras Pengguna* 
+*Tabel 2 Kebutuhan Perangkat Keras Pengguna* 
 
 
 
