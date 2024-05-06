@@ -1,4 +1,5 @@
-**Laporan Project UTS           Mata Kuliah: Pemrograman Web** 
+## Laporan Project UTS ##    
+**Mata Kuliah : Pemrograman Web**
 
 
 
@@ -27,7 +28,9 @@
 1. Prototype (Desain Mockup/Figma) 
 1. Hasil Akhir (Demo program) 
 
-Lampirkan link github kolaborasi tim. **A.Gambaran Umum Sistem** 
+Lampirkan link github kolaborasi tim.
+
+**1. Gambaran Umum Sistem** 
 
 Program antrian adalah program komputer yang dirancang untuk mengelola antrian data. Antrian adalah struktur data yang mengikuti prinsip First In, First Out (FIFO), di mana elemen yang pertama masuk adalah yang pertama keluar. Di sisi lain, sistem memberikan alat kepada petugas untuk memanggil nomor antrian secara efisien menggunakan suara. Aplikasi Antrian ini dibangun menggunakan bahasa pemrograman PHP Versi 8 dan database MySQL/MariaDB. Untuk berkomunikasi dengan database menggunakan MySQLi Extension dengan antarmuka Procedural. Desain tampilan aplikasi ini menggunakan framework CSS Bootstrap 5.
 
@@ -67,7 +70,7 @@ Berikut adalah beberapa fungsi utama dari program antrian:
 - **Meningkatkan Kualitas Layanan:** Sistem ini dapat membantu meningkatkan kualitas layanan dengan memberikan informasi yang jelas kepada pelanggan dan melacak kinerja petugas.  
 - **Meningkatkan Kepuasan Pelanggan:** Sistem ini dapat membantu meningkatkan kepuasan pelanggan dengan mengurangi frustrasi dan meningkatkan pengalaman antrian.  
 
-  **B. Kebutuhan Sistem** 
+**2. Kebutuhan Sistem** 
 
 1. **functional sistem (use case)** 
 
@@ -111,21 +114,25 @@ Analisis ini diperlukan untuk mengetahui spesifikasi minimum yang dibutuhkan unt
 |2 |TV LED |
 |3 |Personal Computer (PC) |
 
-3. **Rancangan Sistem** 
-- Activity Diagram** 
+**3. Rancangan Sistem** 
+- Activity Diagram
 
 ![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.004.jpeg)
 
-- Sequence Diagram 
+- Sequence Diagram
+
+![Sequence](https://github.com/Muhjat7/Project_antrian/assets/130146099/ad9157a1-df0b-4b54-817c-f27f996ed643)
+
+
 - Devloyment Diagram 
 
 ![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.005.png)
 
-4. **Rancangan Basis Data (ERD)** 
+**4. Rancangan Basis Data (ERD)** 
 
 ![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.006.png)
 
-**C.Prototype (Desain Mockup/Figma Data Loket** 
+**5. Prototype (Desain Mockup/Figma Data Loket)** 
 
 ![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.007.jpeg)
 
@@ -133,7 +140,7 @@ Analisis ini diperlukan untuk mengetahui spesifikasi minimum yang dibutuhkan unt
 
 ![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.008.jpeg)
 
-**F.Hasil Demo** 
+**6. Hasil Demo** 
 
 ![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.009.jpeg)
 
