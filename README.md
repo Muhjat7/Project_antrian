@@ -71,11 +71,11 @@ Berikut adalah beberapa fungsi utama dari program antrian:
 
 1. **functional sistem (use case)** 
 
-![](Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.001.jpeg)
+![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.001.jpeg)
 
-![](Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.002.jpeg)
+![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.002.jpeg)
 
-![](Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.003.png)
+![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.003.png)
 
 2. **Non functional** 
 
@@ -114,29 +114,29 @@ Analisis ini diperlukan untuk mengetahui spesifikasi minimum yang dibutuhkan unt
 3. **Rancangan Sistem** 
 - Activity Diagram** 
 
-![](Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.004.jpeg)
+![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.004.jpeg)
 
 - Sequence Diagram 
 - Devloyment Diagram 
 
-![](Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.005.png)
+![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.005.png)
 
 4. **Rancangan Basis Data (ERD)** 
 
-![](Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.006.png)
+![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.006.png)
 
 **C.Prototype (Desain Mockup/Figma Data Loket** 
 
-![](Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.007.jpeg)
+![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.007.jpeg)
 
 **Data Pelayanan** 
 
-![](Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.008.jpeg)
+![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.008.jpeg)
 
 **F.Hasil Demo** 
 
-![](Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.009.jpeg)
+![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.009.jpeg)
 
-![](Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.010.jpeg)
+![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.010.jpeg)
 
-![](Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.011.jpeg)
+![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.011.jpeg)
