@@ -136,6 +136,8 @@ Analisis ini diperlukan untuk mengetahui spesifikasi minimum yang dibutuhkan unt
 
 ![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.007.jpeg)
 
+<img width="678" alt="mockup" src="https://github.com/Muhjat7/Project_antrian/assets/129940568/6f260f40-9862-45c9-a5b4-729e1a4e1b3e">
+
 **Data Pelayanan** 
 
 ![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.008.jpeg)
