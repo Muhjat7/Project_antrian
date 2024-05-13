@@ -149,3 +149,9 @@ Analisis ini diperlukan untuk mengetahui spesifikasi minimum yang dibutuhkan unt
 ![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.010.jpeg)
 
 ![](foto/Aspose.Words.381b3444-b514-42e7-8697-1e99c8db93ba.011.jpeg)
+
+
+https://github.com/Muhjat7/Project_antrian/assets/129918243/4ca5b869-5f3b-4922-9d95-3096559b36dd
+
+
+
